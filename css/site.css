@@ -20,7 +20,7 @@ html {
     border: solid .5em #ffc107;
     border-radius: .5em;
     box-sizing: border-box;
-    flex: 0 0 0%;
+    flex: 0;
     height: 240px;
     margin-top: 1em;
     overflow: auto;
